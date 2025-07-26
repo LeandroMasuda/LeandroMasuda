@@ -37,11 +37,19 @@
 </p>
 
 - Frontend
+<!-- Frontend -->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js" />
+    <img src="https://skillicons.dev/icons?i=html" alt="HTML" />
+  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=css" alt="CSS" />
+  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" />
   </a>
 </p>
+
 
 - Database
 <p align="left">
