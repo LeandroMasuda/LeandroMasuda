@@ -10,10 +10,13 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <br><br>
 
-✨ Sobre mí
-🎓 Comprometido con mi formación académica y en constante búsqueda de nuevos desafíos.
-
-💡 Disfruto resolviendo problemas complejos y aprendiendo nuevas tecnologías.
+<div align="left">
+  <h3>✨ Sobre mí</h3>
+  <ul>
+    <li>🎓 Comprometido con mi formación académica y en constante búsqueda de nuevos desafíos.</li>
+    <li>💡 Disfruto resolviendo problemas complejos y aprendiendo nuevas tecnologías.</li>
+  </ul>
+</div>
 
 
 - 📫 Contacto **masudaleandroyuji@gmail.com**
