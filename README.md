@@ -1,36 +1,71 @@
-# Hola 👋, soy Masuda Leandro  
+<h1 align="center">Hola 👋, soy Masuda Leandro</h1>
+<h3 align="center">Estudiante en la Universidad Nacional de La Plata</h3>
+<p align="center">Me encuentro en mi tercer año de la carrera</p>
+<p align="center"> 
+</p>
 
-## 🧑‍🎓 Sobre mí  
-Estudiante de 3° año en la Facultad de Informática, UNLP. Apasionado por el backend con Python/Java y siempre explorando nuevas tecnologías.
 
----
+<br>
 
-## 🛠️ Lenguajes y Herramientas  
 
-| Backend            | Frontend      | Base de datos       | DevOps & IDEs         |
-|--------------------|---------------|---------------------|-----------------------|
-| ![Java][java-icon] ![Python][py-icon] ![Flask][flask-icon] | ![JS][js-icon] | ![MySQL][mysql-icon] ![SQLite][sqlite-icon] | ![Git][git-icon] ![GitHub][gh-icon] ![VSCode][vscode-icon] ![Postman][postman-icon] |
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<br><br>
 
-[//]: # (Aquí defines tus iconos al final con referencias)
 
----
 
-## 📂 Proyectos destacados  
 
-| Nombre proyecto | Tech Stack      | Live Demo / Repo                         |
-|-----------------|-----------------|------------------------------------------|
-| Proyecto A      | Spring Boot, MySQL | 🔗 [GitHub](https://github.com/…)       |
-| Proyecto B      | Flask, React   | 🔗 [Demo](https://…) / [Código](https://…) |
+- 📫 Contacto **masudaleandroyuji@gmail.com**
 
----
+- Linkedin **www.linkedin.com/in/leandro-masuda-6ab012336**
 
-## 📈 Estadísticas de GitHub  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MasudaLeandro&theme=dark&show_icons=true)  
-[![Streak](https://github-readme-streak-stats.herokuapp.com/?user=MasudaLeandro&theme=dark)](https://git.io/streak-stats)  
 
----
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-## 📫 Contáctame  
-- ✉️ masudaleandroyuji@gmail.com  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/leandro-masuda-6ab012336)  
+<h3 align="left">Languages and Tools:</h3>
+
+- Backend
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,py,flask" />
+  </a>
+</p>
+
+- Frontend
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js" />
+  </a>
+</p>
+
+- Database
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+  </a>
+</p>
+
+
+- Tools
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,eclipse" />
+  </a>
+</p>
+
+<br/>
+
+
+
+
+
+<br><br>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<h3 align="left">Activity:</h3>
+
+![Supuna97's Graph](https://github-readme-activity-graph.vercel.app/graph?username=LeandroMasuda&custom_title=Supun's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+<br><br>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
