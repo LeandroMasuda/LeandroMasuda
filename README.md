@@ -26,22 +26,25 @@
 <!--- stats & Trophy (start) -->
 <p align="center">
   <!--- stats (start) -->
-<table align="left">
-<tr border="none">
-<td width="60%" align="center">
+<table width="100%">
+  <tr>
+    <td width="40%" align="center">
+      <img
+        title="🔥 Get streak stats for your profile at git.io/streak-stats"
+        alt="Mark streak"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=MasudaLeandro&theme=dark&hide_border=false"
+      />
+    </td>
 
-<!--  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=unsimpledev&theme=dark&show_icons=true&count_private=true" />
-  <br></br> -->
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=unsimpledev&theme=dark&hide_border=false" /> 
-</td>
-
-<td width="40%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=unsimpledev&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-
-  </td>
-</tr>
+    <td width="40%" align="center">
+      <img
+        align="center"
+        src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=MasudaLeandro&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"
+      />
+    </td>
+  </tr>
 </table>
+
 <!--- stats (end) -->
 
 
