@@ -24,7 +24,6 @@
 
 
 
-- 🌱 Linkedin www.linkedin.com/in/leandro-masuda-6ab012336
 
 - 📫 Contacto **masudaleandroyuji@gmail.com**
 
