@@ -1,6 +1,5 @@
 <h1 align="center">Hola 👋, soy Masuda Leandro</h1>
-<h3 align="center">Estudiante en la Universidad Nacional de La Plata</h3>
-<p align="center">Me encuentro en mi tercer año de la carrera</p>
+<h3 align="center">Soy estudiante de Licenciatura en Sistemas en la Universidad Nacional de La Plata, actualmente cursando el tercer año de la carrera.</h3>
 <p align="center"> 
 </p>
 
