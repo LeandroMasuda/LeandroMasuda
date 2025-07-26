@@ -61,12 +61,7 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 
-<h3 align="left">GitHub Stats:</h3>
-<div align="center">
- 
 
-
-</div>
 
 <br><br>
 
