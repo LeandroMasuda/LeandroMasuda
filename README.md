@@ -64,9 +64,12 @@
 <h3 align="left">GitHub Stats:</h3>
 <div align="center">
  
-![Supun's GitHub stats](https://github-readme-stats.vercel.app/api?username=MasudaLeandro\&theme=midnight-purple\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues)
+<!-- GitHub Stats -->
+![Mis GitHub stats](https://github-readme-stats.vercel.app/api?username=MasudaLeandro&theme=midnight-purple&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&hide=contribs,issues)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=MasudaLeandro&theme=midnight-purple)](https://git.io/streak-stats)
+<!-- GitHub Streak -->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MasudaLeandro&theme=midnight-purple)](https://git.io/streak-stats)
+
 
 </div>
 
